@@ -90,5 +90,7 @@ data = [1, 2, 3, 4, 5, 6, [7, 8, 9]]
 last_data = data[-1]
 print("the last data is ", last_data.pop(0))
 print(type(last_data))
+
 print(len(data))
+
 print(data)
