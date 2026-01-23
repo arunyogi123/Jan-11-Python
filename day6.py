@@ -33,4 +33,3 @@ for i in range(1,4):
         if j==6:
             break
         print(i,j)
-     
