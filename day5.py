@@ -79,4 +79,4 @@ if "namse" in data:
     data["name"]=data["namse"]
 print(f'{data["name"]} {data["phone"][0]["type"]} number is {data["phone"][0]["number"]}')
 
-#print(f'{data["name"]} {data["phone"][1]["type"]} number is {data["phone"][1]["number"]}')
+print(f'{data["name"]} {data["phone"][1]["type"]} number is {data["phone"][1]["number"]}')
