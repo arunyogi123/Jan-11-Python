@@ -41,7 +41,10 @@ st.text(a)
 # data = st.date_input("Date ")
 # data2 = st.button("Play Again")
 
+
 random_number, nepsedata, news = st.tabs(["Game", "Nepse", "News"])
+
+
 
 
 with random_number:
